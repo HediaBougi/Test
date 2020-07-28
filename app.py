@@ -1,5 +1,4 @@
 # app.py
-#import main Flask class and request object
 
 from flask import Flask, request, render_template
 #from flask_sqlalchemy import SQLAlchemy
